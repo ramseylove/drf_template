@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'apps.accounts',
 
     #third-Party
+    'rest_framework',
 
     'django.contrib.admin',
     'django.contrib.auth',
